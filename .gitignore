@@ -19,3 +19,6 @@ venv/
 .python-version
 sqlite3
 .DS_Store
+.direnv/
+.coverage
+coverage.xml
